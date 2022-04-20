@@ -1,5 +1,5 @@
 import pygame
-import math
+# import math
 from queue import PriorityQueue
 
 WIDTH = 800
